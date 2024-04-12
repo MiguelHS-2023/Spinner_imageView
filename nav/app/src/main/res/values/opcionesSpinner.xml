@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_spinner">
+        <item>imagen1</item>
+        <item>imagen2</item>
+        <item>imagen3</item>
+        <item>imagen4</item>
+    </string-array>
+</resources>
